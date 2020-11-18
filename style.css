@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    margin: 40px;
+    background-color: azure;
+}
+
+#container-menu {
+    max-width: 250px;
+    background-color: blanchedalmond;
+    border: 1px coral;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#title-id {
+    text-align: center;
+}
